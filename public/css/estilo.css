@@ -1,0 +1,23 @@
+.branco {
+color: white;
+text-decoration: none;
+}
+
+.titulo{
+  color: #34623f;
+   font-weight: bold;
+}
+
+.verde{
+color: #34623f;
+text-decoration: none;
+}
+
+.sub-titulo{
+  color: #34623f;
+   font-weight: bold;
+}
+
+body{
+  background-color: #b0bea9;
+}
